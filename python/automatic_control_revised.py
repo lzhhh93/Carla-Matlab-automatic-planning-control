@@ -2,8 +2,6 @@
 
 """Revised automatic control
 """
-# Author: Runsheng Xu <rxx3386@ucla.edu>
-# License: MIT
 
 import os
 import random
